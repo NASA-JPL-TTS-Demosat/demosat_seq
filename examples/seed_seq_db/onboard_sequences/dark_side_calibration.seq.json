@@ -1,0 +1,134 @@
+{
+    "id": "dark_side_calibration",
+    "metadata": {
+        "planId": 1,
+        "timeSorted": false,
+        "simulationDatasetId": 1
+    },
+    "steps": [
+        {
+            "type": "note",
+            "text": ";"
+        },
+        {
+            "type": "note",
+            "text": ";"
+        },
+        {
+            "type": "note",
+            "text": ";------------------------------------------------------------------------------------------------"
+        },
+        {
+            "type": "note",
+            "text": ""
+        },
+        {
+            "args": [],
+            "stem": "DARK_SIDE_CALIBRATION",
+            "time": {
+                "tag": "00:00:00",
+                "type": "COMMAND_RELATIVE"
+            },
+            "type": "command",
+            "description": ""
+        },
+        {
+            "args": [],
+            "stem": "DARK_SIDE_CALIBRATION",
+            "time": {
+                "tag": "00:00:30",
+                "type": "COMMAND_RELATIVE"
+            },
+            "type": "command",
+            "description": ""
+        },
+        {
+            "args": [],
+            "stem": "DARK_SIDE_CALIBRATION",
+            "time": {
+                "tag": "00:00:30",
+                "type": "COMMAND_RELATIVE"
+            },
+            "type": "command",
+            "description": ""
+        },
+        {
+            "args": [],
+            "stem": "DARK_SIDE_CALIBRATION",
+            "time": {
+                "tag": "00:00:30",
+                "type": "COMMAND_RELATIVE"
+            },
+            "type": "command",
+            "description": ""
+        },
+        {
+            "args": [],
+            "stem": "DARK_SIDE_CALIBRATION",
+            "time": {
+                "tag": "00:00:30",
+                "type": "COMMAND_RELATIVE"
+            },
+            "type": "command",
+            "description": ""
+        },
+
+        {
+            "args": [],
+            "stem": "DARK_SIDE_CALIBRATION",
+            "time": {
+                "tag": "00:00:30",
+                "type": "COMMAND_RELATIVE"
+            },
+            "type": "command",
+            "description": ""
+        },
+        {
+            "args": [],
+            "stem": "DARK_SIDE_CALIBRATION",
+            "time": {
+                "tag": "00:00:30",
+                "type": "COMMAND_RELATIVE"
+            },
+            "type": "command",
+            "description": ""
+        },
+
+        {
+            "args": [],
+            "stem": "DARK_SIDE_CALIBRATION",
+            "time": {
+                "tag": "00:00:30",
+                "type": "COMMAND_RELATIVE"
+            },
+            "type": "command",
+            "description": ""
+        },
+
+        {
+            "args": [],
+            "stem": "DARK_SIDE_CALIBRATION",
+            "time": {
+                "tag": "00:00:30",
+                "type": "COMMAND_RELATIVE"
+            },
+            "type": "command",
+            "description": ""
+        },
+
+        {
+            "args": [],
+            "stem": "DARK_SIDE_CALIBRATION",
+            "time": {
+                "tag": "00:00:30",
+                "type": "COMMAND_RELATIVE"
+            },
+            "type": "command",
+            "description": ""
+        },
+        {
+            "type": "note",
+            "text": ""
+        }
+    ]
+}
